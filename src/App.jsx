@@ -1,7 +1,12 @@
 import "./App.css";
+import SpellBook from "./components/SpellBook";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <SpellBook />
+    </>
+  );
 }
 
 export default App;
